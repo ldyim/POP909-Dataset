@@ -1,7 +1,7 @@
 import os 
 
 
-# create a script that moves all the files in chords/xxx/ into melody/xxx/
+
 
 # get all the directories in chords/
 chords = os.listdir('chords')
